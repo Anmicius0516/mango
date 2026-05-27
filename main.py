@@ -46,6 +46,8 @@ clock = pygame.time.Clock()
 font_title = pygame.font.SysFont("simhei", 20, bold=True) # 标题用粗体
 font_value = pygame.font.SysFont("arial", 28, bold=True) # 数字用大粗体
 font_tips = pygame.font.SysFont("simhei", 16)
+#定义游戏结束的字体（用黑体，40号大字，加粗）
+game_over_font = pygame.font.SysFont("simhei", 40, bold=True)
 
 # 游戏状态变量 (新增等级和行数计数)
 grid = [[0 for _ in range(COLS)] for _ in range(ROWS)]
