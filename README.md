@@ -23,7 +23,7 @@
 
 
 
-![游戏主界面]("C:\Users\wu\Desktop\mango\game1.png")
+![游戏主界面]("game1.png")
 
 ---
 
@@ -41,5 +41,5 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone [https://github.com/](https://github.com/)[Anmicius]/[mango].git
+git clone [https://github.com/](https://github.com/)[Anmicius0516]/[mango].git
 cd [mango]
