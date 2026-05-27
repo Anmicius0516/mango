@@ -41,5 +41,5 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone [https://github.com/](https://github.com/)[Anmicius0516]/[mango].git
-cd [mango]
+git clone https://github.com/Anmicius0516/mango.git
+cd mango
