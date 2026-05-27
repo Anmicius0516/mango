@@ -21,9 +21,9 @@
 
 ## 📸 游戏画面 (Screenshots)
 
-> 💡 **展示提示：** 请在此处上传一张你的游戏运行截图，或录制一段 5 秒的 GIF 动图。这能让面试官在 3 秒内直观看到你的成果！
 
-![游戏主界面]([替换为你的截图图片链接或相对路径，例如: screenshots/gameplay.png])
+
+![游戏主界面]("C:\Users\wu\Desktop\mango\game1.png")("C:\Users\wu\Desktop\mango\game2.png")
 
 ---
 
