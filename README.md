@@ -24,7 +24,7 @@
 
 
 ![游戏主界面](game1.png)
-
+游戏开始[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=Anmicius0516/mango)
 ---
 
 ## 🛠️ 控制指南 (Controls)
